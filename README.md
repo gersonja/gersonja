@@ -1,6 +1,6 @@
 ### Hola 👋, Mi nombre es Gerson
 #### Soy desarrollador web fullstack Angular React Springboot Nodejs
-![Soy desarrollador web fullstack Angular React Springboot Nodejs](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Soy desarrollador web fullstack Angular React Springboot Nodejs]
 
 ## Acerca de mí
 
