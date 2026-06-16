@@ -14,10 +14,7 @@ Debido al carácter comercial de mis proyectos y a acuerdos de confidencialidad 
 ### 🚀 Capacidades Arquitectónicas (Lo que construyo)
 
 - **Arquitectura de Software & SaaS Multi-Tenant**: Diseño y despliegue de sistemas multi-inquilino con aislamiento dinámico de bases de datos/esquemas relacionales en caliente.
-- **Seguridad B2B Jerárquica**: Motores de autorización complejos y control de visibilidad JWT para jerarquías organizacionales de múltiples niveles.
 - **Desarrollo Acelerado con IA (Force Multiplier)**: Dominio en el uso de herramientas y agentes de Inteligencia Artificial para la automatización, refactorización, optimización y documentación de sistemas a gran escala de forma unipersonal.
-- **Integración IoT / Hardware**: Canales de telemetría y comunicación bidireccional en tiempo real entre servidores cloud y dispositivos físicos (Edge Computing con Raspberry Pi y MQTT).
-- **Inteligencia Artificial Aplicada**: Integración de motores de biometría facial en vivo, flujos de captura de webcam y procesamiento OCR/lectura de placas.
 - **Rendimiento & Escalabilidad**: Reducción de latencia mediante capas de caché de alto rendimiento, pools de conexiones optimizados y rate limiting por IP/inquilino.
 
 ---
@@ -38,7 +35,6 @@ Debido al carácter comercial de mis proyectos y a acuerdos de confidencialidad 
 ### 🏢 Trayectoria & Proyectos de Alto Impacto
 
 A lo largo de mi trayectoria como desarrollador independiente y consultor, he diseñado y construido soluciones críticas de nivel empresarial y plataformas SaaS listas para producción:
-- **Sistemas de Seguridad & Control de Accesos IoT**: Arquitectura de plataformas para administración de accesos físicos que integran telemetría IoT en tiempo real (Raspberry Pi), biometría facial con análisis de webcam y auditoría de eventos bajo esquemas de bases de datos aisladas (Multi-tenant).
 - **Plataformas de Comercio Electrónico (E-commerce SaaS)**: Desarrollo de soluciones robustas para tiendas y marketplaces en la nube, optimizando la gestión de inventario, pasarelas de pago y consistencia transaccional.
 - **Social Media & Streaming con WebRTC**: Diseño e implementación a nivel de backend de canales interactivos de comunicación en tiempo real, utilizando WebRTC para flujos de audio/vídeo de ultra baja latencia.
 - **Fintech & Cajas de Ahorro**: Motores financieros para el cálculo de amortizaciones de préstamos, contabilidad, conciliaciones de pagos y auditoría transaccional.
